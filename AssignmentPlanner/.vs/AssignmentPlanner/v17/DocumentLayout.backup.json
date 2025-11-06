@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "AssignmentPlanner\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:22:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AssignmentPlanner\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:18:11.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Program.cs",
+              "RelativeToolTip": "AssignmentPlanner\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:14:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AssignmentPlanner\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T07:13:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AssignmentPlanner\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T07:12:50.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AssignmentPlanner\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:12:06.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
