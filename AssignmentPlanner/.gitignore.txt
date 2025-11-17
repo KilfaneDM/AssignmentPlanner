@@ -1,1 +1,21 @@
+# Build and VS cache
+bin/
+obj/
 .vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.log
+*.tmp
+
+# IIS Express settings
+.vscode/
+.vsconfig/
+*.dbmdl
+*.dbproj.schemaview
+*.vsidx
