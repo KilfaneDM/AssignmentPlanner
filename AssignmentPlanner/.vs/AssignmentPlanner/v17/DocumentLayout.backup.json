@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "AssignmentPlanner\\Program.cs",
               "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Program.cs",
               "RelativeToolTip": "AssignmentPlanner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:23:56.175Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "AssignmentPlanner\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T22:23:07.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T22:23:07.731Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\StudentControllerr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T22:14:20.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T22:14:20.031Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\AccountController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T22:11:58.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T22:11:58.424Z"
             }
           ]
         }

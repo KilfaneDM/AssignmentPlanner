@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\studentcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\studentcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Program.cs",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Program.cs",
               "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Program.cs",
               "RelativeToolTip": "AssignmentPlanner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:23:56.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\appsettings.json",
               "RelativeDocumentMoniker": "AssignmentPlanner\\appsettings.json",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "AssignmentPlanner\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T22:23:07.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T22:23:07.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentControllerr.cs",
               "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\StudentControllerr.cs",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\StudentControllerr.cs",
@@ -69,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:11:58.424Z",
               "EditorCaption": ""
