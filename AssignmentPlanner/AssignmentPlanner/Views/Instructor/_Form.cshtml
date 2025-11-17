@@ -1,0 +1,61 @@
+﻿@model AssignmentPlanner.Models.AssignmentViewModel
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label>Assignment Title</label>
+        @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Title)
+    </div>
+
+    <div class="form-group">
+        <label>Thumbnail (PNG, 100x100)</label>
+        <input type="file" name="Thumbnail" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Description (max 1200 chars)</label>
+        @Html.TextAreaFor(m => m.Description, new { @class = "form-control", maxlength = "2000", rows = "5" })
+        @Html.ValidationMessageFor(m => m.Description)
+    </div>
+
+    <hr />
+
+    <h4>Timeline Steps</h4>
+
+    <p>(For this assignment, add steps manually. No dynamic JS needed.)</p>
+
+    <div class="form-group">
+        <label>Step 1 Title</label>
+        <input type="text" name="Steps[0].Title" class="form-control" />
+
+        <label>Step 1 Instructions</label>
+        <textarea name="Steps[0].Instructions" class="form-control" rows="3"></textarea>
+
+        <label>Step 1 Percentage (%)</label>
+        <input type="number" name="Steps[0].Percentage" class="form-control" min="1" max="100" />
+    </div>
+
+    <div class="form-group">
+        <label>Step 2 Title</label>
+        <input type="text" name="Steps[1].Title" class="form-control" />
+
+        <label>Step 2 Instructions</label>
+        <textarea name="Steps[1].Instructions" class="form-control" rows="3"></textarea>
+
+        <label>Step 2 Percentage (%)</label>
+        <input type="number" name="Steps[1].Percentage" class="form-control" min="1" max="100" />
+    </div>
+
+    <hr />
+
+    <div class="form-group">
+        <label>Checklist (PDF only)</label>
+        <input type="file" name="Checklist" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+

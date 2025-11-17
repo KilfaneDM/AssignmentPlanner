@@ -1,0 +1,14 @@
+﻿@model AssignmentPlanner.Models.AssignmentViewModel
+
+@{
+	ViewBag.Title = "Edit";
+}
+
+<h2>Edit Assignment</h2>
+
+@if (TempData["Message"] != null)
+{
+	<div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@Html.Partial("_Form", Model)

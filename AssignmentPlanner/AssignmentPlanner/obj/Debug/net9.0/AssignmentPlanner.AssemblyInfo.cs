@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c98760f10c112cb4534a8bc21215bc64415e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fcab9fa14b09be480d94f7db9c97c4d5e82cde7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
