@@ -46,6 +46,6 @@ namespace AssignmentPlanner.Controllers
                     TempData["LoginError"] = "Unknown user type.";
                     return View(model);
             }
-        }s
+        }
     }
 }
