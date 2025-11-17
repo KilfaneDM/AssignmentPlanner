@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\studentcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\studentcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "AssignmentPlanner\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T22:23:56.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T22:23:56.175Z"
             },
             {
               "$type": "Document",
@@ -56,11 +55,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentControllerr.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\StudentControllerr.cs",
-              "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\StudentControllerr.cs",
-              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\StudentControllerr.cs",
-              "RelativeToolTip": "AssignmentPlanner\\Controllers\\StudentControllerr.cs",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AssignmentPlanner\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:14:20.031Z",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:11:58.424Z",
               "EditorCaption": ""

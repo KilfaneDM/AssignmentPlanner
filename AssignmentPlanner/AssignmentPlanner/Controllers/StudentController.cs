@@ -2,7 +2,7 @@
 
 namespace AssignmentPlanner.Controllers
 {
-    public class StudentControllerr : Controller
+    public class StudentController : Controller
     {
         public IActionResult Index()
         {
