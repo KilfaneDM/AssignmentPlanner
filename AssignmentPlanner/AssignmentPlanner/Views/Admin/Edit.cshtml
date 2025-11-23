@@ -1,0 +1,25 @@
+﻿@model AssignmentPlanner.Models.Assignment
+
+<h2>Edit Assignment</h2>
+
+<form method="post">
+    @Html.HiddenFor(m => m.Id)
+
+    <div class="mb-3">
+        <label>Assignment Name</label>
+        @Html.TextBoxFor(m => m.AssignName, new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        <label>Due Date</label>
+        @Html.TextBoxFor(m => m.DueDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <div class="mb-3">
+        <label>Description</label>
+        @Html.TextAreaFor(m => m.AssignDesc, new { @class = "form-control", rows = 4 })
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+    <a asp-action="AdministrationDashboard" class="btn btn-secondary">Cancel</a>
+</form>
