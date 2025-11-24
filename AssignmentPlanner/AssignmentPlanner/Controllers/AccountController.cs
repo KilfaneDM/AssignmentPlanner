@@ -41,7 +41,7 @@ namespace AssignmentPlanner.Controllers
                 case "I":
                     return RedirectToAction("Index", "InstructorDashboard");
                 case "A":
-                    return RedirectToAction("Index", "AdministrationDashboard");
+                    return RedirectToAction("AdministrationDashboard", "Admin");
                 default:
                     TempData["LoginError"] = "Unknown user type.";
                     return View(model);
