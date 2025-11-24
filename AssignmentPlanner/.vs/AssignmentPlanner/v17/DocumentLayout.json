@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\",
+  "WorkspaceRootPath": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\ethan\\onedrive\\documents\\github\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\ethan\\onedrive\\documents\\github\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\admin\\administrationdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\admin\\administrationdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\ethan\\onedrive\\documents\\github\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\ethan\\onedrive\\documents\\github\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\admin\\administrationdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\admin\\administrationdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|c:\\users\\tyler\\assignmentplanner\\assignmentplanner\\assignmentplanner\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A74662C-316A-4002-9586-873A9AA5E340}|AssignmentPlanner\\AssignmentPlanner.csproj|solutionrelative:assignmentplanner\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\.gitignore",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\.gitignore",
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -55,52 +47,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
               "RelativeToolTip": "AssignmentPlanner\\Views\\Admin\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-23T21:33:52.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T21:33:52.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AdministrationDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
-              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
               "RelativeToolTip": "AssignmentPlanner\\Views\\Admin\\AdministrationDashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-23T21:33:19.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AdminController.cs",
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T21:32:31.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AssignmentPlanner\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tyler\\AssignmentPlanner\\AssignmentPlanner\\AssignmentPlanner\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AssignmentPlanner\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T22:11:58.424Z",
               "EditorCaption": ""
