@@ -37,7 +37,7 @@ namespace AssignmentPlanner.Controllers
             switch (login.UserType)
             {
                 case "S":
-                    return RedirectToAction("Index", "StudentDashboard");
+                    return RedirectToAction("StudentDashboard", "Student");
                 case "I":
                     return RedirectToAction("Index", "InstructorDashboard");
                 case "A":

@@ -1,7 +1,31 @@
-﻿
-@{
-    ViewData["Title"] = "StudentDashboard";
+﻿@model IEnumerable<AssignmentPlanner.Models.Assignment>
+
+<h2>NBCC Student Dashboard</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
 }
 
-<h1>StudentDashboard</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Assignment Name</th>
+            <th>Due Date</th>
+            <th>Description</th>
+        </tr>
+    </thead>
 
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.AssignName</td>
+                <td>@item.DueDate</td>
+                <td>@item.AssignDesc</td>
+            </tr>
+        }
+    </tbody>
+</table>
